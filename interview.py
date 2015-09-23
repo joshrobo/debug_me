@@ -5,7 +5,7 @@
 
 import sys
 
-print("Hi there. Please answer a few questions to help me build your profile."
+print("Hi there. Please answer a few questions to help me build your profile.")
 github_username = raw_input("What's your GitHub username? ")
 boot_os = raw_input("What is your boot OS? ")
 use_virtualbox = raw_input("Do you use VirtualBox? ")
