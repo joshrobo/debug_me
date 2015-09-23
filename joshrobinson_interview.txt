@@ -1,0 +1,6 @@
+GitHub username	joshrobo
+Boot OS	windows 10
+Use Virtualbox	no, powershell
+Text Editor	notepad
+New to Python?	i had a class once
+New to Programming?	cs major
