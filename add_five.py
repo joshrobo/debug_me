@@ -10,4 +10,4 @@ if len(sys.argv) != 2:
     sys.exit()
 
 user_input = sys.argv[1]
-print(user_input + 5)
+print(int(user_input) + 5)
